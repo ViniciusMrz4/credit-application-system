@@ -1,2 +1,5 @@
-package me.project.creditapplicationsystem.entity 
+package me.project.creditapplicationsystem.enumeration
 
+enum class Status {
+    IN_PROGRESS, APPROVED, REJECT
+}
